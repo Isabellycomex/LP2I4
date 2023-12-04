@@ -1,3 +1,6 @@
+\\Isabelly 
+\\João Dias
+
 package entities;
 
 public class AlunoEntity {
